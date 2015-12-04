@@ -1,0 +1,6 @@
+# Ignore Codeblocks Files and Dirs
+*.cbp
+*.depend
+*.layout
+bin/
+obj/
